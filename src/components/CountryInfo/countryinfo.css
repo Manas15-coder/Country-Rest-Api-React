@@ -1,0 +1,25 @@
+.btn-home{
+    margin-top: 40px;
+    padding: 10px 20px;
+    background-color: hsl(0, 0%, 98%);
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border: none;
+}
+.country-info{
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:100px;
+}
+.country-detail{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 20px;
+}
+.country-info-image{
+    height:275px;
+}
